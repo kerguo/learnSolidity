@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "testUncheckedUnderflow",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testUnderflow",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"safeMath.sol": "SafeMath"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"safeMath.sol": {
+			"keccak256": "0x1a1bd19bb43b0f15b01e3f9fd180d287d81d1d424a7115cbeb3b0b11ca47aa42",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c5a806036d4d92a782943e1ce6373c9ef34fcb553edaa37b3e1345fd10f6502f",
+				"dweb:/ipfs/QmUUbjp9vsEfKGro3KS5K3e49yb31MmN8ErHg38g1LKuam"
+			]
+		}
+	},
+	"version": 1
+}

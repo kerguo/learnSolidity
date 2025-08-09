@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint8",
+						"name": "x",
+						"type": "uint8"
+					},
+					{
+						"internalType": "uint8",
+						"name": "y",
+						"type": "uint8"
+					}
+				],
+				"name": "add",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"TestInt.sol": "TestInt"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"TestInt.sol": {
+			"keccak256": "0x33acecdaf3b22709eaba97f4b82395b97185f1d42532a47a8ff27840c4d00746",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e988daefee92433ea1c475a31796eac4f9d903ae5d5c5e944b6cdcc64a79aee0",
+				"dweb:/ipfs/QmRe9cvKaAYexmvKFB3pAkhj2myFfdYEdW4gxDHYqUDatc"
+			]
+		}
+	},
+	"version": 1
+}

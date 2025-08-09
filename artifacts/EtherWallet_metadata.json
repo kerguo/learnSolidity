@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"basicSolidity/EtherWallet.sol": "EtherWallet"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"basicSolidity/EtherWallet.sol": {
+			"keccak256": "0x20766a88f420947be4ef21aca7b2a6fff92aefc6080aeebce5b8bcaf60bd5a53",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e9f4ee7dedde760c1751f5b9d66ef22d3a106ebfdac903fe3fcc5101f61048ca",
+				"dweb:/ipfs/QmThapGDNsasUr7Agqi6y7NdCawmKVmoHHt6VG2mgqiWZP"
+			]
+		}
+	},
+	"version": 1
+}
